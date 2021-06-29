@@ -1,3 +1,9 @@
+# 注意事项：
+
+此项目仅作为备份使用，可能不是最新的版本。
+
+最新版本项目，请访问：[https://gitee.com/ZXAcademy/StudentManagementSystem-SSH](https://gitee.com/ZXAcademy/StudentManagementSystem-SSH) 查看。
+
 # Struts2、Spring与Hibernate整合应用：基于SSH框架的学生成绩管理系统
 
 >   最近一个实验课程，需要做一个基于`SSH框架`的`学生成绩管理系统`。就简简单单做了一下……
